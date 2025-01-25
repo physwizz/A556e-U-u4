@@ -25,3 +25,5 @@
 2. Output files
         - out/s5e8845_user/dist
 ################################################################################
+
+PermissionError: [Errno 13] Permission denied: '/home/physwizz/A556e-U-u4/prebuilts/bazel/linux-x86_64/bazel'
